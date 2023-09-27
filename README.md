@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey, I'm Lari! 🌟
 
-<!--
-**popoxta/popoxta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fullstack web developer who's all about creating clean, efficient code and putting it to the test. 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Fullstack Web Developer
+- 🧪 Testing Enthusiast
+- 🎸 80's Rock Fan (ZZ Top, Pink Floyd, Fleetwood Mac and more)
+- 🧀 Raclette Lover (German cuisine aficionado)
+- 🚶‍♂️ 5+ Hour Walks Monster
+
+Currently, I am immersed in learning and engaged in freelance web development projects utilizing technologies such as Javascript, Typescript, React, MongoDB, SQL, Figma and PlayWright.
+I am excited about expanding my skill set and am looking to learn new technologies, such as Golang, Docker, AWS, and more!
