@@ -1,2 +1,2 @@
 # Hey, I'm Lari! 🌟
-Test engineer who likes ZZ Top, a lot.
+Test automation engineer who likes ZZ Top, a lot. 🎸
